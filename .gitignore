@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But don't ignore .gitignore itself
+!.gitignore
+
+# And don't ignore the file we want to track
+!agent.py
+
